@@ -1,6 +1,6 @@
 # MeWe Soshi-Free Userstyle
 
-_A Userstyle for MeWe.com to remove Soshi-related elements. This includes the Wallet menu nav button, the promoted posts (ads), locked posts, and the Tipping button on posts and profiles._
+_A Userstyle for MeWe.com to remove Soshi-related elements. This includes the Wallet menu nav button, the promoted posts (ads), locked posts, the "Lock Content" toggle, the Boost button, and the Tipping button on posts and profiles._
 
 ## Installation
 

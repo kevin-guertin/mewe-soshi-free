@@ -19,8 +19,8 @@
     }
 
     /* Remove Lock Content Toggle so you can't create a locked post */
-
-    .locked-content-control, .locked-content-item {
+    .locked-content-control, 
+    .locked-content-item {
         display: none !important;
     }
 
